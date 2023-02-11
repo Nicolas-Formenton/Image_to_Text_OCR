@@ -1,0 +1,5 @@
+opencv-python==4.x
+pyautogui==0.9.x
+pytesseract==0.3.x
+keyboard==0.13.x
+numpy==1.19.x
